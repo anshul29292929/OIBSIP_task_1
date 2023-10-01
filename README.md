@@ -1,7 +1,5 @@
 # OIBSIP_task_1
-# Iris Flower Classification with K-Nearest Neighbors
-
-This Python program demonstrates how to perform Iris flower classification using the K-Nearest Neighbors (KNN) algorithm. The Iris dataset is a popular dataset for classification tasks and consists of three species of Iris flowers with measurements of their sepal and petal lengths and widths.
+# Iris Flower Classification
 
 ## Table of Contents
 
@@ -31,7 +29,7 @@ Installation
 Clone this repository to your local machine:
 bash
 Copy code
-git clone https://github.com/anshul29292929/iris-flower-classification.git
+git clone https://github.com/anshul29292929/OIBSIP_task_1
 Navigate to the project directory:
 bash
 Copy code
